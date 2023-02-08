@@ -6,4 +6,6 @@ cmd commands in c++
 <pre>
 git clone https://github.com/Mr-Banana-2045/cmd-commands
 cd cmd-commands
-g++ -o cmd 
+g++ -o cmd rm rf.cxx
+./cmd
+</pre>
